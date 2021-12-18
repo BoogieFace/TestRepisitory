@@ -1,6 +1,6 @@
 # TestRepository
 Repository for my tests
 ## Project 1 - Training project. Guess the number quickly
-[Материалы проекта](#GameProject)
+[Материалы проекта](./GameProject/)
 ## Project 2 - Data Visualisation
-[Ссылка на ноутбук](#Визуализация_данных.ipynb)
+[Ссылка на ноутбук](./Визуализация данных.ipynb)
